@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        print("Pink is the color")
+        print("Pink is the color 3")
     }
 
 
